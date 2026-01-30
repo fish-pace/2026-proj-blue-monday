@@ -2,7 +2,7 @@
 
 ## Overview
 This project explores whether hyperspectral observations from NASA’s PACE Ocean Color Instrument (OCI) can improve the characterization of mangrove ecosystems, particularly in highly disturbed coastal regions. Using the Niger Delta as a case study, we assess whether hyperspectral data provides additional information beyond traditional multispectral approaches for distinguishing mangroves and identifying potential stress signals.
-## Planning
+
 
 ## Collaborators
 
@@ -25,6 +25,11 @@ This project explores whether hyperspectral observations from NASA’s PACE Ocea
 ## Background
 
 ## Goals
+*Evaluate whether hyperspectral PACE OCI data can spectrally distinguish mangroves from other coastal vegetation
+*Explore mangrove spectral characteristics relevant to stress and disturbance
+*Assess temporal changes in mangrove signals using time series analysis
+*Use oil spill events as a real-world test case for episodic environmental stress
+*Establish feasibility for future applications in mangrove monitoring and blue carbon assessment
 
 ## Datasets
 
