@@ -8,10 +8,10 @@ This project explores whether hyperspectral observations from NASA’s PACE Ocea
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Rose Coggins        | Project Facilitator |
-| Janelle Levine      | Participant         |
-| Michelle Fasona     | Participant         |
-| Shulhan             | Participant         |
+| Rose Coggins        | Project Lead        |
+| Janelle Levine      | Member              |
+| Michelle Fasona     | Member              |
+| Shulhan             | member              |
 
 ## Planning
 
